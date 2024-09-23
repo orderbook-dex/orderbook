@@ -1,0 +1,14 @@
+{
+  "name": "@orderbook-dex/orderbook",
+  "version": "0.1.9",  
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orderbook-dex/orderbook.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
